@@ -1,0 +1,26 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~125|Field=Description~String~Description~153|Field=Designator~String~Designator~118|Field=Footprint~String~Footprint~118|Field=LibRef~String~LibRef~118|Field=Quantity~Integer~Quantity~118|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~UrologyProjectLL.PrjPCB|ReportField=ProjectFullPath~C:\Users\Mush\Dropbox\Calplug\Urology\Lifeng's\UrologyProjectLL.PrjPCB|ReportField=Title~Bill of Materials For Project [UrologyProjectLL.PrjPCB] (PCB Document : BottomBoard.PcbDoc)|ReportField=ReportTime~21:18:48|ReportField=ReportDate~2018/4/25|ReportField=ReportDateTime~2018/4/25 21:18:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~88|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/4/25|ReportField=CurrentTime~21:05:55|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Mush\Dropbox\Calplug\Urology\Lifeng's\Top.SchDoc|ReportField=DocumentName~Top.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Lifeng Liang|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/4/23|ReportField=Organization~Altium Limited|ReportField=ProjectName~UrologyProjectLL.PrjPCB|ReportField=Revision~V1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~FTDI|ReportField=DataSourceFileName~UrologyProjectLL.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Mush\Dropbox\Calplug\Urology\Lifeng's\UrologyProjectLL.PrjPCB|ReportField=PCBDataSourceFileName~BottomBoard.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Mush\Dropbox\Calplug\Urology\Lifeng's\BottomBoard.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C3, C6, C13, C18, C20|C1210|Cap Semi|6|10uF
+2|Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C4, C5, C7, C8, C9, C11, C12, C14, C15, C16, C17, C19, C21, C22|1608[0603]|Cap Semi|15|1uF, 66pF, 22uF, 470pF, 0.057uF, 10pF, 0.1uF, 0.47uF
+3|Cap Semi|Capacitor (Semiconductor SIM Model)|C10|C1206|Cap Semi|1|10uF
+4|LED2|Typical RED, GREEN, YELLOW, AMBER GaAs LED|D1|1608[0603]|LED2|1|
+5|BQ24075|16VQFN|IC1|BQ24075|BQ24075|1|
+6|LTC3534||IC2|LTC3534|LTC3534|1|
+7|ESP32-WROOM-32U||IC3|ESP32-WROOM-32U|ESP32-WROOM-32U|1|
+8|FT232RL|USB UART Asynchronous Serial Data Transfer Chip, 28-pin SSOP, Tape and Reel|IC4|SSOP-28_N|FT232RL-Reel|1|
+9|BQ27441-G1||IC5|BQ27441-G1|BQ27441-G1|1|
+10|HX711||IC6|HX711|HX711|1|
+11|JS_BK2||J1, J2, J3, J10|JS_BK2|JS_BK2|4|
+12|JS_CON2||J4, J5, J6, J7, J8, J9, J12, J13|JS_CON2|JS_CON2|8|
+13|JS_CON3_BK1||J11, J14|JS_CON3_BK1|JS_CON3_BK1|2|
+14|BATTOUT||J15|JS_BK2|JS_BK2|1|
+15|Inductor|Inductor|L1, L2|6-0805_N|Inductor|2|3.3uH
+16|NTC_Thermister|Header, 2-Pin|P1|HDR1X2|Header 2|1|
+17|BATT|Header, 2-Pin|P2|JST-2-SMD|Header 2|1|
+18|Header 4|Header, 4-Pin|P3|HDR1X4|Header 4|1|
+19|Header 5H|Header, 5-Pin, Right Angle|P4|HDR1X5H|Header 5H|1|
+20|Header 8H|Header, 8-Pin, Right Angle|P5|HDR1X8H|Header 8H|1|
+21|BC817|NPN Bipolar Transistor|Q1, Q2|SOT-23B_N|QNPN|2|
+22|MMBT4403|PNP Bipolar Transistor|Q3|SOT-23B_N|PNP|1|
+23|Res3|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32|J1-0603|Res3|32|10K, 560, 100K, 590, 1.1K, 374K, 220, 200K, 15K, 4.7K, 162K, 150, 12K, 0.01, 20K, 8.2K, 100
+24|PS2501||U2|PS2501AL|PS2501|1|
+25|MiniUSB||U5|USB/SM0.8-6H5|MiniUSB|1|
